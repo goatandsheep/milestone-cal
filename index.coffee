@@ -46,4 +46,4 @@ app.get url, (req, res) ->
 
     res.send(renderCalendar(allResults));
 
-app.listen(3000)
+app.listen(process.env.PORT || 3000)
