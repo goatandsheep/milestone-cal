@@ -1,0 +1,19 @@
+{
+  "name": "milestone-cal",
+  "version": "0.0.0",
+  "description": "github milestones -> calendar feed",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adam becker",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.4.1",
+    "icalendar": "^0.6.5",
+    "async": "^0.9.0",
+    "githubot": "^1.0.0-beta2",
+    "coffee-script": "^1.7.1",
+    "underscore": "^1.6.0"
+  }
+}
