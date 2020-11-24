@@ -14,6 +14,6 @@
     "async": "^0.9.0",
     "githubot": "^1.0.0-beta2",
     "coffee-script": "^1.7.1",
-    "underscore": "^1.6.0"
+    "underscore": "^1.12.0"
   }
 }
